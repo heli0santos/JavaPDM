@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-class Main6 {
+class Exec44 {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
         int[] num = new int[3];
