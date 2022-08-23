@@ -1,11 +1,10 @@
 import java.util.Scanner;
 
-class Exec39 {
+class Ex39 {
     public static void main(String[] args) {
 
         Scanner scan = new Scanner(System.in);
-        int matricula;
-        int nota;
+        int matricula, nota;
 
         System.out.println("Informe a matrícula:");
         matricula = scan.nextInt();

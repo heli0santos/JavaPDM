@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-class Exec47 {
+class Ex47 {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
         double salarioBruto, salarioLiquido;

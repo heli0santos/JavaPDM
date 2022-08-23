@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-class Exec45 {
+class Ex45 {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
         double a, b, c;

@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-class Exec42 {
+class Ex42 {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
         double num;

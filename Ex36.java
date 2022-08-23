@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-class Exec36 {
+class Ex36 {
     public static void main(String[] args) {
         
         Scanner scan = new Scanner(System.in);

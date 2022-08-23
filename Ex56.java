@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-class Exec56 {
+class Ex56 {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
         int num = 1, numSoma = 0, numPares = 0, numImpares = 0, numQnt = 0;
